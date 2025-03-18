@@ -1,4 +1,10 @@
-<h1 align="center">Olá galera! Me chamo João Vitor</h1>
+<div align="center">
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F4BFFC5&width=435&lines=Ol%C3%A1+Galera!+%F0%9F%91%8B;Me+Chamo+Jo%C3%A3o+Vitor." alt="Typing SVG" /></a>
+  </a>
+</div>
+
+
 <h4 align="center">Sou um estudante, atualmente cursando Desenvolvimento de Sistemas. Sou apaixonado pela área de Tecnologia e estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.</h4>
 
 <div style="display: flex; justify-content: center;" width="100%">
