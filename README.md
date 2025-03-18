@@ -25,6 +25,8 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-henrique-campos-3a14b7310/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 ![snake gif](https://github.com/juaozinh1/juaozinh1/blob/outputgithub-contribution-grid-snake-dark.svg)
+</div>
+
+
