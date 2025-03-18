@@ -7,9 +7,8 @@
 ----
 
 <div>
-  <a href="https://rober122pst.github.io/meu-portfolio/" target="_blank">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rober122pst&show_icons=true&theme=radical&title_color=0&icon_color=0&bg_color=0c131c"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rober122pst&layout=compact&bg_color=0c131c"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=juaozinh1&show_icons=true&theme=radical&title_color=0&icon_color=0&bg_color=0c131c"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juaozinh1&layout=compact&bg_color=0c131c"/>
 </div>
 
 <div style="display: inline_block"><br>
