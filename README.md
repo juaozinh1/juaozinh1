@@ -26,6 +26,7 @@
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/</a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="kotlin" width="40" height="40"/</a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="30"/></a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="30"/></a>
 </div>
 
 ##
