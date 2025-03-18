@@ -5,7 +5,7 @@
 </div>
 
 
-<h4 align="center">Olá, meu nome é João Vitor!Sou um estudante,atualmente cursando Desenvolvimento de Sistemas. Sou apaixonado pela área de Tecnologia e estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.</h4>
+<h4 align="center">Olá, meu nome é João Vitor! Sou um estudante,atualmente cursando Desenvolvimento de Sistemas. Sou apaixonado pela área de Tecnologia e estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.</h4>
 
 <div style="display: flex; justify-content: center;" width="100%">
 </div>
