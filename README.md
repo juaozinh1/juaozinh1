@@ -7,9 +7,9 @@
 ----
 
 <div style="text-align: center;" align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=juaozinh1&theme=shadow_red&show_icons=true">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=juaozinh1&theme=midnight-purple&show_icons=true">
   <br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juaozinh1&theme=shadow_redlayout=compact%"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juaozinh1&theme=midnight-purple%layout=compact%"/>
 </div>
 
 <div style="display: inline_block"><br>
