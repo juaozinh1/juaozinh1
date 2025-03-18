@@ -19,14 +19,14 @@
 </div>
 
 <div  align = center style="display: inline_block"><br>
-  <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="30"/></a>    
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="30"/></a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="30"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/</a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="kotlin" width="40" height="40"/</a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="30"/></a>
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="30"/></a>
+  <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5"a>    
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" /></a>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" "/></a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" /</a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="kotlin" "/</a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" "/></a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" /></a>
 </div>
 
 ##
