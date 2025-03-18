@@ -7,7 +7,7 @@
 ----
 
 <div style="text-align: center;" align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=juaozinh1&show_icons=true&theme=radical&title_color=0&icon_color=0&bg_color=0c131c"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=juaozinh1&show_icons=true&theme=midnight-purplel&title_color=0&icon_color=0&bg_color=0c131c"/>
   <br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juaozinh1&layout=compact&bg_color=0c131c"/>
 </div>
