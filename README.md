@@ -18,7 +18,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juaozinh1&theme=midnight-purple&layout=compact"/>
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div align="center">
   <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/>
   </a>
