@@ -5,7 +5,7 @@
 </div>
 
 
-<h4 align="center">Olá, meu nome é João Vitor! Sou um técnico em Desenvolvimento de Sistemas atualmente cursando Ciências da Computação. Sou apaixonado pela área de Tecnologia e estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.</h4>
+<h4 align="center">Técnico em Desenvolvimento de Sistemas e estudante de Ciência da Computação, com foco em desenvolvimento Back-End, Banco de Dados e automação. Possuo experiência prática com Python, Java, JavaScript, PHP e SQL, desenvolvendo APIs, sistemas web, bots e aplicações integradas a bancos de dados. Tenho interesse em arquitetura de software, DevOps e criação de soluções tecnológicas para problemas reais. Estou sempre em busca de novas oportunidades para aprender e crescer profissionalmente.</h4>
 
 <div style="display: flex; justify-content: center;" width="100%">
 </div>
