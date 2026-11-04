@@ -47,9 +47,6 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="50"/>
   </a>
   
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="50" height="50"/>
-  </a>
 <a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
 <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/>
 
