@@ -50,8 +50,25 @@
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="50" height="50"/>
   </a>
-</div>
+<a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
+<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/>
 
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/>
+ <a/>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="postegresql" width="50" height="50"/>
+ <a/>
+ <a href="https://supabase.com"  target="_blank" rel="noreferrer">
+   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" alt="supabase" width="50" height="50"/>
+  
+<a href="https://spring.io/"  target="_blank" rel="noreferrer">
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"  alt="spring" width="50" height="50"/>
+
+ <a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"  alt="react" width="50" height="50"/>
+
+  </div>
 ##
 
 <div> 
