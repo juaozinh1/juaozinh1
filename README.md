@@ -10,8 +10,6 @@
 <div style="display: flex; justify-content: center;" width="100%">
 </div>
 
-----
-
 <div style="text-align: center;" align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=juaozinh1&theme=midnight-purple&show_icons=true">
   <br>
