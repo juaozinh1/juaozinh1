@@ -57,7 +57,7 @@
 <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/>
  <a/>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="postegresql" width="50" height="50"/>
+<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postegresql" width="50" height="50"/>
  <a/>
  <a href="https://supabase.com"  target="_blank" rel="noreferrer">
    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" alt="supabase" width="50" height="50"/>
